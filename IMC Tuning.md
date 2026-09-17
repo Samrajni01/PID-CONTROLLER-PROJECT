@@ -43,5 +43,5 @@ conservative IMC-derived PI is sufficient to eliminate it.)
 The systematically-tuned PI controller eliminates overshoot entirely and 
 settles roughly 3x faster than the manually-tuned PID, while still 
 maintaining zero steady-state error.
-See [Systematic Controller Tuning (IMC)](IMC%20Tuning.md) for the Direct Synthesis tuning analysis and updated results.
+See ![IMC-tuned PI response](https://raw.githubusercontent.com/Samrajni01/PID-CONTROLLER-PROJECT/main/pid.png) for the Direct Synthesis tuning analysis and updated results.
 
